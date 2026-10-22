@@ -1,0 +1,7 @@
+{
+  "job_id": "job_dbd6bb513c4b",
+  "sourceRepoUrl": "https://github.com/soubhagya-behera/secure-digital-banking-management-system",
+  "targetJavaVersion": "25.0.2",
+  "status": "MIGRATION_CHECKPOINT",
+  "migration_date": ""
+}
